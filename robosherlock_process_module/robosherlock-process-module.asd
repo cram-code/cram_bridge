@@ -39,13 +39,13 @@
                cram-projection
                cram-roslisp-common
                cram-language
+               cram-environment-representation
                cram-manipulation-knowledge
                cram-plan-failures
                cl-semantic-map-utils
                semantic-map-costmap
                actionlib
-               cram-uima
-               cram-moveit)
+               cram-uima)
   :components
   ((:module "src"
     :components
